@@ -1,0 +1,13 @@
+# Віртуальне середовище
+venv/
+.env
+
+# Файли Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Лог-файли та кеш
+*.log
+*.sqlite3
